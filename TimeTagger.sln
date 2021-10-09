@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTagger", "TimeTagger\TimeTagger.csproj", "{21FFB3CE-D567-4F5A-9B3D-E28DA52CE54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FFB3CE-D567-4F5A-9B3D-E28DA52CE54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FFB3CE-D567-4F5A-9B3D-E28DA52CE54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FFB3CE-D567-4F5A-9B3D-E28DA52CE54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FFB3CE-D567-4F5A-9B3D-E28DA52CE54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E55A4BC-564D-4DA8-9025-6D8B8266E3B9}
+	EndGlobalSection
+EndGlobal
